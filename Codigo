@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <iostream>
 int main() {
     int a = 28, b = 0;
     for (int i = 1; i <= a / 2; i++) {
